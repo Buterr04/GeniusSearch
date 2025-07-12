@@ -7,4 +7,6 @@ GeniusSearch is a search tool powered by LLM on devices.
 
 选用macOS作为软件开发原生平台，以SwiftUI实现界面，使用最新SwiftData存储历史数据
 
+开发环境：`macOS 15.5+`  `Xcode 16.4+`
+
 Developing...
